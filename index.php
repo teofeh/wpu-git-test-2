@@ -10,6 +10,9 @@
 <body>
     <?php echo "adasd"; ?>
     <h2>HELLO WORLD</h2>
+    <ul>
+        <li>ahasdads</li>
+    </ul>
 </body>
 
 </html>
